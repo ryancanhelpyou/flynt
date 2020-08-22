@@ -1,4 +1,4 @@
-const host = 'https://flynt.test'
+const host = 'https://theme-dev.local'
 const dest = './dist'
 
 function getCopyConfig (source) {
